@@ -1,4 +1,9 @@
 
-### Tareas BeUs con React JS
+## Tareas BeUs con React JS
 
-#### WebSite:
+#### WebSite: https://crisboleda.github.io/tasks-react/
+
+
+### Funcionalidades:
+- Crear CRUD de tareas
+- Crear formulario de contacto
