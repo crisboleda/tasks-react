@@ -6,7 +6,7 @@ import PanelAdmin from './pages/PanelAdmin';
 
 const App = () => {
     return(
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
             <Switch>
                 <Route exact path="/" component={PanelAdmin} />
                 <Route exact path="/contact" component={Contact} />
